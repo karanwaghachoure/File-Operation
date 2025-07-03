@@ -7,7 +7,6 @@ public class File3 {
 		FileInputStream fs = new FileInputStream("Ram.txt");
 		System.out.println(fs);
 		fs.close();
-		
 	}
 
 }
